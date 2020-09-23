@@ -1,0 +1,5 @@
+route_id,trip_id,service_id,trip_short_name,trip_headsign,direction_id,block_id,shape_id
+SAULOG_R1,SAULOG_T1,SAULOG_DAILY,"Naic, Cavite - PITX","Naic, Cavite to PITX",0,,
+SAULOG_R2,SAULOG_T2,SAULOG_DAILY,"PITX - Naic, Cavite ","PITX to Naic, Cavite",0,,
+SAULOG_R3,SAULOG_T3,SAULOG_DAILY,Cavity City - PITX,Cavite City to PITX,0,,
+SAULOG_R4,SAULOG_T4,SAULOG_DAILY,PITX - Cavite City,PITX to Cavite City,0,,

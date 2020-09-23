@@ -1,0 +1,5 @@
+trip_id,start_time,end_time,headway_secs,exact_times
+SAULOG_T1,4:30:00,20:00:00,900,0
+SAULOG_T2,4:30:00,21:00:00,900,0
+SAULOG_T3,4:30:00,18:30:00,900,0
+SAULOG_T4,4:00:00,20:30:00,900,0

@@ -1,0 +1,5 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+SAULOG,SAULOG_1,"Naic, Cavite - PITX","Naic, Cavite to PITX","Naic, Cavite to PITX",2,https://www.facebook.com/saulogtransit/photos/a.367538363286630/4451529054887520/,,
+SAULOG,SAULOG_2,"PITX - Naic, Cavite ","PITX to Naic, Cavite","PITX to Naic, Cavite",2,https://www.facebook.com/saulogtransit/photos/a.367538363286630/4451529054887520/,,
+SAULOG,SAULOG_3,Cavity City - PITX,Cavite City to PITX,Cavite City to PITX,2,https://www.facebook.com/saulogtransit/photos/a.367538363286630/4451529054887520/,,
+SAULOG,SAULOG_4,PITX - Cavite City,PITX to Cavite City,PITX to Cavite City,2,https://www.facebook.com/saulogtransit/photos/a.367538363286630/4451529054887520/,,

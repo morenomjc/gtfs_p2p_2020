@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+SAULOG_S1,SAULOG_S1,Saulog Bus Station,"Saulog Bus Station - Naic , Cavite",14.3217574,120.7695696,,,0,,0
+SAULOG_S2,SAULOG_S2,PITX,Para–aque Integrated Terminal Exchange,14.5108141,120.975049,,,0,,
